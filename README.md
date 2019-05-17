@@ -1,10 +1,9 @@
 # HttpServer
 
-##  通过Netty实现一套简易的HTTP服务器
+##  利用Netty实现一套简易的HTTP服务器
 
 ### [参考项目](https://gitee.com/IdeaHome_admin/ITree/tree/master)
 
-模块 | netty-all | cglib | fastjson | lombok | slf4j-api
 
 模块|netty-all|cglib|fastjson|lombok 
 ---|---|---|---|---
