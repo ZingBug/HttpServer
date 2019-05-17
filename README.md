@@ -12,8 +12,8 @@
 ### 功能介绍：
 *  **支持对静态文件css，js，html，图片资源的访问；**
 *  **支持用户自定义配置文件httpserver-config.properties；**
-*  **利用注解@Controller实现控制器，并模拟视图解析器； **
-*  **利用注解@Filter实现过滤器，并可以设置优先级。 **
+*  **利用注解@Controller实现控制器，并模拟视图解析器；**
+*  **利用注解@Filter实现过滤器，并可以设置优先级。**
 
 ### 主要流程：
 *  **注册所有的Controller控制器与Filter过滤器，配置Netty服务器（HttpserverApplication.start()函数）；**
